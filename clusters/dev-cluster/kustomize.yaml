@@ -4,4 +4,4 @@ metadata:
   name: dev-cluster
 resources:
 - dev-cluster-eks-a-cluster.yaml
-#- ./w01-cluster/w01-cluster.yaml
+- w01-cluster-eks-a-cluster.yaml
