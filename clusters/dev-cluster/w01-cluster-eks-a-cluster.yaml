@@ -25,7 +25,7 @@ spec:
   managementCluster:
     name: dev-cluster
   workerNodeGroupConfigurations:
-  - count: 1
+  - count: 2
     name: md-0
 
 ---
